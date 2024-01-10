@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubWorkflowTest", "GitHubWorkflowTest\GitHubWorkflowTest.csproj", "{91B17F3D-9705-4DFB-A941-3FF7F205B712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{1E942759-A04B-4737-922D-7059B39B02B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91B17F3D-9705-4DFB-A941-3FF7F205B712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91B17F3D-9705-4DFB-A941-3FF7F205B712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91B17F3D-9705-4DFB-A941-3FF7F205B712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E942759-A04B-4737-922D-7059B39B02B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E942759-A04B-4737-922D-7059B39B02B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E942759-A04B-4737-922D-7059B39B02B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E942759-A04B-4737-922D-7059B39B02B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
