@@ -33,7 +33,7 @@ namespace GitHubWorkflowTest.Controllers
         [HttpGet("Test", Name = "Test")]
         public string Test()
         {
-            return "Test";
+            return "What's uppp";
         }
     }
 }
